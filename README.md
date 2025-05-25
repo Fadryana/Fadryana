@@ -5,14 +5,18 @@ Luego hice una pausa en mi carrera de 10 años para atender a mi familia 👶�
 
 - Lo que he logrado en el BootCamp 🌱📝 - He completado 8 sprints enfocados en: Introduccion al Testing, los principios basicos de QA, tipos de pruebas. Pruebas Manuales, creacion de casos de prueba, realizar pruebas funcionales. Pruebas de Api, uso de herramienta Postman, probando Endpoints, validar la respuesta del servidor. Reporte y Seguimiento de errores, uso Informes de errores con herramienta Jira. Automatizacion con Selenium, desarrollo de scripts automatizados para pruebas funcionales.
 
-- Mis habilidades blandas 👯 - Son la comunicacion efectiva, la adaptabilidad, la empatia, etica en el trabajo, ser muy observadora.
+- Mis habilidades blandas 👯 -
+  -   Comunicación efectiva.
+  -   Adaptabilidad.
+  -   Empatia.
+  -   Etica en el trabajo.
+  -   Muy observadora.
 
 - Las Herramientas aprendidas⚡✅🔢 - He aprendido en el BootCamp, lenguajes como Python y Sql. Testing usando Selenium, Pytest, Postman. Bases de datos como Sql Server. Control de versiones usando Git y github. Gestion de informes usando Jira. 
 
 - Los proyectos realizado en el BootCamp como ejercicios📝 - 
-  Apu stand test son pruebas basicas de Api usando Python y request para validar endpoints y creacion de usuarios
-  URban grocers app - que fue una automatizacion de pruebas con Pytest para validar parametros en Endpoints de una app de compras de articulos de una tienda enlinea
-  Urban routes app fue una simulacion de un flujo completo de solicitud de un servicio de auto como si fuese un uber, se uso para automatizar Selenium y Pytest.
+  -  https://github.com/Fadryana/qa-project-Urban-Routes-es - URban grocers app - que fue una automatizacion de pruebas con Pytest para validar parametros en Endpoints de una app de compras de articulos de una tienda enlinea
+  -  https://github.com/Fadryana/qa-project-Urban-Grocers-app-es - Urban routes app fue una simulacion de un flujo completo de solicitud de un servicio de auto como si fuese un uber, se uso para automatizar Selenium y Pytest.
 
 - Mis estudios:
   - BootCamp QA Engineer - TripleTen 2024-2025
