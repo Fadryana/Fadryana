@@ -1,36 +1,104 @@
-## Hola 🤗 soy Fanny Adriana Miranda ☺️ 
-- Quien soy 👩🏻 -
-Soy Ingeniera de Sistemas, graduada 👩🏻‍🎓 en la Escuela Superior Politécnica del Litoral ubicada en Guayaquil, Ecuador. En mis inicios recién graduada aprendi la herramienta de Autocad donde me desempeñé en un proyecto de digitalización de planos cartográficos, eléctricos 🗺️🏚️🛋️📐🗒️💡📚 incluso arquitectónicos usando dicha herramienta. Luego estuve trabajando en el área netamente de hardware, 🖨️⌨️🔌💿🖱️ partes, montaje, desmontaje del cpu. Luego laboré en el área de ventas de equipos de computación e instalación en los hogares del cliente final. Mas adelante se me ha permitido incursionar en el área de pruebas de software de forma empírica aprendiendo de la experiencia de otros. Finalmente también me he desempeñado en la atención telefónica de usuarios internos 👥 con problemas❓a nivel tecnológico, llegando a la satisfacción y resolución del mismo ✅.   
-Luego hice una pausa en mi carrera de 10 años para atender a mi familia 👶🏻👶🏻👦🏻👩🏻👨🏻🏠. Y hoy en día he vuelto a tener la oportunidad de volver al mundo laboral 💼 y para esto he empezado a capacitarme 📚,  he finalizado un curso de "QA Engineer" en un BootCamp que ofrece la empresa de TripleTen 👩🏻‍🎓, donde aprendi las metodologías y bases del control de calidad en un desarrollo, el análisis de requerimientos, creación de casos de prueba, desarrollo de de listas 🧾📝 de comprobación, también realicé pruebas en aplicaciones Web, pruebas en dispositivos móviles 🛜📲📳📴, pruebas automatizadas. El área de control de calidad de software es algo que habia empezado a gustarme años atrás cuando hice mis primeras pruebas, después de la pausa descubrí que en eso me quería especializar, me encanta mucho esta área, quiero seguir aprendiendo y capacitándome en QA y testing.
 
-- Lo que he logrado en el BootCamp 🌱📝 - He completado 8 sprints enfocados en: Introduccion al Testing, los principios basicos de QA, tipos de pruebas. Pruebas Manuales, creacion de casos de prueba, realizar pruebas funcionales. Pruebas de Api, uso de herramienta Postman, probando Endpoints, validar la respuesta del servidor. Reporte y Seguimiento de errores, uso Informes de errores con herramienta Jira. Automatizacion con Selenium, desarrollo de scripts automatizados para pruebas funcionales.
-
-- Mis habilidades blandas 👯 -
-  -   Comunicación efectiva.
-  -   Adaptabilidad.
-  -   Empatia.
-  -   Etica en el trabajo.
-  -   Muy observadora.
-
-- Las Herramientas aprendidas⚡✅🔢 - He aprendido en el BootCamp, lenguajes como Python y Sql. Testing usando Selenium, Pytest, Postman. Bases de datos como Sql Server. Control de versiones usando Git y github. Gestion de informes usando Jira. 
-
-- Los proyectos realizado en el BootCamp como ejercicios📝 - 
-  -  https://github.com/Fadryana/qa-project-Urban-Routes-es - URban grocers app - que fue una automatizacion de pruebas con Pytest para validar parametros en Endpoints de una app de compras de articulos de una tienda enlinea
-  -  https://github.com/Fadryana/qa-project-Urban-Grocers-app-es - Urban routes app fue una simulacion de un flujo completo de solicitud de un servicio de auto como si fuese un uber, se uso para automatizar Selenium y Pytest.
-
-- Mis estudios:
-  - BootCamp QA Engineer - TripleTen 2024-2025
-  - Ingeniera de sistemas - Finalizado 1997
-
-- 📫 como me puedes contactar: 
-    - con linkedin: www.linkedin.com/in/fannyadrianamiranda
-    - con mi correo: fadrianami@icloud.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63,9E9E9E&height=200&section=header&text=Fanny%20Adriana%20Miranda&fontSize=35&fontColor=ffffff" alt="banner">
+</p>
 
 
-<!--
-**Fadryana/Fadryana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-aa
-Here are some ideas to get you started:
+# 👩🏻‍💻 Fanny Adriana Miranda
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FannyMiranda-blue)](https://www.linkedin.com/in/fannyamiranda/)
+[![Email](https://img.shields.io/badge/Email-fadrymir@outlook.es-red)](mailto:fadrymir@outlook.es)
+
+---
+
+## 👩🏻 ¿Quién soy?
+
+Soy **Ingeniera de Sistemas**, graduada en la **Escuela Superior Politécnica del Litoral**, Guayaquil, Ecuador.
+
+A lo largo de mi trayectoria profesional he adquirido experiencia en:
+
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-Diseño_Técnico-orange)](#)
+[![Hardware](https://img.shields.io/badge/Hardware-Mantenimiento_y_Armado-lightgrey)](#)
+[![Soporte Técnico](https://img.shields.io/badge/Soporte_Técnico-Asistencia_a_Usuarios-blue)](#)
+
+Después de una pausa de 10 años dedicada a mi familia 👨‍👩‍👧‍👦, decidí retomar mi carrera, enfocándome en lo que siempre me apasionó: el **control de calidad de software**.
+
+Actualmente he completado el programa de:
+
+[![TripleTen](https://img.shields.io/badge/BootCamp-QA_Engineer_TripleTen-yellowgreen)](#)
+
+donde aprendí y puse en práctica:
+
+[![Requerimientos](https://img.shields.io/badge/Análisis-Requerimientos-blue)](#)
+[![Casos de prueba](https://img.shields.io/badge/Creación-Casos_de_Prueba-lightgrey)](#)
+[![Pruebas Web y Móviles](https://img.shields.io/badge/Pruebas-Web_y_Móviles-green)](#)
+[![Selenium](https://img.shields.io/badge/Automatización-Selenium-orange)](#)
+[![Postman](https://img.shields.io/badge/API_Testing-Postman-critical)](#)
+[![Jira](https://img.shields.io/badge/Gestión_de_Errores-Jira-blueviolet)](#)
+[![Git](https://img.shields.io/badge/Control_de_Versiones-Git-red)](#)
+[![GitHub](https://img.shields.io/badge/Repositorios-GitHub-black)](#)
+
+Me apasiona el **QA y Testing**, disfruto asegurar la calidad del software y quiero seguir creciendo profesionalmente en este campo.
+
+---
+
+## 🎓 Estudios
+
+[![BootCamp QA Engineer](https://img.shields.io/badge/BootCamp-QA_Engineer_TripleTen_2024--2025-yellowgreen)](#)
+[![Ingeniera de Sistemas](https://img.shields.io/badge/Ingeniera_de_Sistemas-Finalizado_1997-blue)](#)
+
+---
+
+## 🌱 Logros en el BootCamp
+
+[![Sprint 1](https://img.shields.io/badge/Sprint_1-Introducción_al_Testing-blue)](#)
+[![Sprint 2](https://img.shields.io/badge/Sprint_2-Principios_de_QA-lightgrey)](#)
+[![Sprint 3](https://img.shields.io/badge/Sprint_3-Tipos_de_Pruebas-green)](#)
+[![Sprint 4](https://img.shields.io/badge/Sprint_4-Pruebas_Manuales-yellowgreen)](#)
+[![Sprint 5](https://img.shields.io/badge/Sprint_5-Pruebas_API_(Postman)-orange)](#)
+[![Sprint 6](https://img.shields.io/badge/Sprint_6-Reporte_de_Errores_(Jira)-red)](#)
+[![Sprint 7](https://img.shields.io/badge/Sprint_7-Automatización_Selenium-blueviolet)](#)
+
+---
+
+## ⚡ Herramientas que manejo
+
+[![Jira](https://img.shields.io/badge/Jira-Gestión_de_Errores-blueviolet)](#)
+[![Postman](https://img.shields.io/badge/Postman-Pruebas_API-critical)](#)
+[![SQL](https://img.shields.io/badge/SQL-Base_de_Datos-yellow)](#)
+[![Git](https://img.shields.io/badge/Git-Control_de_Versiones-red)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorios-black)](#)
+[![Python](https://img.shields.io/badge/Python-Lenguaje-blue)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-Automatización-green)](#)
+[![Pytest](https://img.shields.io/badge/Pytest-Pruebas-orange)](#)
+
+---
+
+## 👯 Habilidades blandas
+
+✔ Comunicación efectiva  
+✔ Adaptabilidad  
+✔ Empatía  
+✔ Ética profesional  
+✔ Observación y atención al detalle  
+
+---
+
+## 📝 Proyectos del BootCamp
+
+🔗 [URban Routes app - Automatización Pytest - Validación de Endpoints](https://github.com/Fadryana/qa-project-Urban-Routes-es)  
+🔗 [Urban Grocers app - Flujo completo con Selenium y Pytest](https://github.com/Fadryana/qa-project-Urban-Grocers-app-es)  
+
+---
+
+## 📫 Contacto final
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FannyMiranda-blue)](https://www.linkedin.com/in/fannyamiranda/)
+[![Email](https://img.shields.io/badge/Email-fadrymir@outlook.es-red)](mailto:fadrymir@outlook.es)
+
+
 
 
 
