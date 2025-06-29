@@ -1,15 +1,14 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63,9E9E9E&height=200&section=header&text=Fanny%20Adriana%20Miranda&fontSize=35&fontColor=ffffff" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=f8bcd0&text=FannyAdriana%20Miranda&section=footer&reversal=true" alt="banner">
 </p>
 
-
-# 👩🏻‍💻 Fanny Adriana Miranda
 
 ## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FannyMiranda-blue)](https://www.linkedin.com/in/fannyamiranda/)
 [![Email](https://img.shields.io/badge/Email-fadrymir@outlook.es-red)](mailto:fadrymir@outlook.es)
+[![Teléfono](https://img.shields.io/badge/Teléfono-5930979093774-brightgreen)](tel:+5930979093774)
+
 
 ---
 
@@ -22,6 +21,8 @@ A lo largo de mi trayectoria profesional he adquirido experiencia en:
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-Diseño_Técnico-orange)](#)
 [![Hardware](https://img.shields.io/badge/Hardware-Mantenimiento_y_Armado-lightgrey)](#)
 [![Soporte Técnico](https://img.shields.io/badge/Soporte_Técnico-Asistencia_a_Usuarios-blue)](#)
+[![Experiencia en Banca](https://img.shields.io/badge/Experiencia_en-Banca-lightblue)](#)
+
 
 Después de una pausa de 10 años dedicada a mi familia 👨‍👩‍👧‍👦, decidí retomar mi carrera, enfocándome en lo que siempre me apasionó: el **control de calidad de software**.
 
@@ -63,7 +64,7 @@ Me apasiona el **QA y Testing**, disfruto asegurar la calidad del software y qui
 
 ---
 
-## ⚡ Herramientas que manejo
+## ⚡ Herramientas que aprendí
 
 [![Jira](https://img.shields.io/badge/Jira-Gestión_de_Errores-blueviolet)](#)
 [![Postman](https://img.shields.io/badge/Postman-Pruebas_API-critical)](#)
@@ -76,7 +77,7 @@ Me apasiona el **QA y Testing**, disfruto asegurar la calidad del software y qui
 
 ---
 
-## 👯 Habilidades blandas
+## 👫 Soft Skills
 
 ✔ Comunicación efectiva  
 ✔ Adaptabilidad  
@@ -86,7 +87,7 @@ Me apasiona el **QA y Testing**, disfruto asegurar la calidad del software y qui
 
 ---
 
-## 📝 Proyectos del BootCamp
+## 📝 Proyectos realizados dentro del BootCamp
 
 🔗 [URban Routes app - Automatización Pytest - Validación de Endpoints](https://github.com/Fadryana/qa-project-Urban-Routes-es)  
 🔗 [Urban Grocers app - Flujo completo con Selenium y Pytest](https://github.com/Fadryana/qa-project-Urban-Grocers-app-es)  
@@ -97,6 +98,8 @@ Me apasiona el **QA y Testing**, disfruto asegurar la calidad del software y qui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FannyMiranda-blue)](https://www.linkedin.com/in/fannyamiranda/)
 [![Email](https://img.shields.io/badge/Email-fadrymir@outlook.es-red)](mailto:fadrymir@outlook.es)
+[![Teléfono](https://img.shields.io/badge/Teléfono-5930979093774-brightgreen)](tel:+5930979093774)
+
 
 
 
