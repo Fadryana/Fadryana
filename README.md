@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=150&color=fbd2e0&text=FannyAdriana%20Miranda&section=header&reversal=false&textBg=false&fontAlignY=31&fontAlign=66&fontSize=50" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=e5cbce&text=Fanny%20%20Adriana%20Miranda" alt="banner">
 </p>
 
 
-## 📬 Contacto
+
+# 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FannyMiranda-blue)](https://www.linkedin.com/in/fannyamiranda/)
 [![Email](https://img.shields.io/badge/Email-fadrymir@outlook.es-red)](mailto:fadrymir@outlook.es)
@@ -14,7 +15,7 @@
 
 ## 👩🏻 ¿Quién soy?
 
-Soy **Ingeniera de Sistemas**, graduada en la **Escuela Superior Politécnica del Litoral**, Guayaquil, Ecuador.
+Soy **Ingeniera de Computación**, graduada en la **ESPOL - Escuela Superior Politécnica del Litoral**, en la ciudad de Guayaquil, Ecuador.
 
 A lo largo de mi trayectoria profesional he adquirido experiencia en:
 
@@ -26,9 +27,7 @@ A lo largo de mi trayectoria profesional he adquirido experiencia en:
 
 Después de una pausa de 10 años dedicada a mi familia 👨‍👩‍👧‍👦, decidí retomar mi carrera, enfocándome en lo que siempre me llamó poderosamente mi atención: el **control de calidad de software**.
 
-Actualmente he completado el programa de:
-
-[![TripleTen](https://img.shields.io/badge/BootCamp-QA_Engineer_TripleTen-yellowgreen)](#)
+Actualmente he completado el programa de: [![TripleTen](https://img.shields.io/badge/BootCamp-QA_Engineer_TripleTen-yellowgreen)](#)
 
 donde aprendí y puse en práctica:
 
@@ -85,12 +84,40 @@ Me apasiona el **QA y Testing**, disfruto asegurar la calidad del software y qui
 ✔ Ética profesional  
 ✔ Observación y atención al detalle  
 
----
+-----
 
 ## 📝 Proyectos realizados dentro del BootCamp
+Durante mis estudios, realicé proyectos prácticos que forman parte de mi portafolio profesional. Aquí detallo cada uno aplicando buenas prácticas de documentación.
 
-🔗 [URban Routes app - Automatización Pytest - Validación de Endpoints](https://github.com/Fadryana/qa-project-Urban-Routes-es)  
-🔗 [Urban Grocers app - Flujo completo con Selenium y Pytest](https://github.com/Fadryana/qa-project-Urban-Grocers-app-es)  
+- ## 🚕 Urban Routes App - Automatización Pytest - Validación de Endpoints
+  🔗 [URban Routes app - Automatización Pytest - Validación de Endpoints](https://github.com/Fadryana/qa-project-Urban-Routes-es)  
+  Proyecto enfocado en la validación de los distintos **endpoints** de la aplicación **URban Routes**, una plataforma de gestión de rutas urbanas.
+
+### **Herramientas utilizadas:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![API REST](https://img.shields.io/badge/API-REST-green?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+### **Descripción:**  
+Automatización de pruebas para validar el correcto funcionamiento de la API de URban Routes. Se incluyeron casos exitosos, pruebas negativas y verificación de respuestas JSON.
+
+### **Conclusiones:**  
+Este proyecto me permitió fortalecer mis habilidades en automatización de APIs, validación de respuestas y uso de buenas prácticas en Pytest.
+
+
+
+- ## 🛒 Urban Grocers App - Flujo Completo con Selenium y Pytest
+  🔗 [Urban Grocers app - Flujo completo con Selenium y Pytest](https://github.com/Fadryana/qa-project-Urban-Grocers-app-es)  
+  Automatización del flujo completo de compra en la aplicación web **Urban Grocers**, simulando la experiencia de usuario final.
+
+### **Herramientas utilizadas:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)  
+
+### **Descripción:**  
+Se automatizó todo el proceso desde el acceso al portal, selección de productos, llenado de formularios, validación de códigos SMS y confirmación de la orden. Las pruebas incluyeron aserciones en cada paso clave del flujo.
+
+### **Conclusiones:**  
+Este proyecto me permitió profundizar en la automatización de interfaces gráficas, el manejo de elementos dinámicos y validaciones complejas en formularios con Selenium.
+
 
 ---
 
