@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=f8bcd0&text=FannyAdriana%20Miranda&section=footer&reversal=true" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=150&color=fbd2e0&text=FannyAdriana%20Miranda&section=header&reversal=false&textBg=false&fontAlignY=31&fontAlign=66&fontSize=50" alt="banner">
 </p>
 
 
