@@ -24,7 +24,7 @@ A lo largo de mi trayectoria profesional he adquirido experiencia en:
 [![Experiencia en Banca](https://img.shields.io/badge/Experiencia_en-Banca-lightblue)](#)
 
 
-Después de una pausa de 10 años dedicada a mi familia 👨‍👩‍👧‍👦, decidí retomar mi carrera, enfocándome en lo que siempre me apasionó: el **control de calidad de software**.
+Después de una pausa de 10 años dedicada a mi familia 👨‍👩‍👧‍👦, decidí retomar mi carrera, enfocándome en lo que siempre me llamó poderosamente mi atención: el **control de calidad de software**.
 
 Actualmente he completado el programa de:
 
