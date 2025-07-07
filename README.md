@@ -17,7 +17,7 @@
 
 ## 👩🏻 **Acerca de mi**
 
-Soy una mujer de mas de 50 años, madre de tres hijos, que luego de una pausa laboral, decidió volver al campo laboral, desafiando el reto de volver a estudiar y con la satisfacción de haberlo logrado. Planteándome ahora la nueva meta de conseguir un trabajo online en el área de control de calidad del software y seguir preparandome pora los nuevos desafios que esten porvenir en mi camino si Dios asi lo permite.
+Soy una mujer, madre de tres hijos, que luego de una pausa laboral, decidió volver al campo laboral, desafiando el reto de volver a estudiar y con la satisfacción de haberlo logrado. Planteándome ahora la nueva meta de conseguir un trabajo online en el área de control de calidad del software y seguir preparandome pora los nuevos desafios que esten porvenir en mi camino si Dios asi lo permite.
 
 ---
 
